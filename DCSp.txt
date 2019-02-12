@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Page Title</title>
+</head>
+<body>
+
+<h1>Pikachu</h1>
+<p>My favorite cartoon is Pikachu. It is one of the fictional creature that appears in movies, tv shows, video games, trading card, and comic books. It has powerful electric abilities. Pikachu was designed in japan by Atsuko Nishida and finalized by Ken Sugimori. Just like other Pokémon’s, Pikachu is also captured by humans and is used to fight over other Pokémon. Pikachu is the central character in the cartoon Pokémon. </p>
+</body>
+</html> 
+
+<h1>Picture</h1>
+<img src="C:\Users\Samip\Desktop\assignment\Pikachu.jpg" height="250" weight="250">
+</body>
+</html>
+
+<h1>Special Powers</h1>
+<p>Transform Shape 
+<img src="C:\Users\Samip\Desktop\assignment\empty.gif" height="25" weight="25" hspace="10">
+<p>Teach Calculus
+<img src="C:\Users\Samip\Desktop\assignment\empty.gif" height="25" weight="25" hspace="20">
+<p>Speak 
+<img src="C:\Users\Samip\Desktop\assignment\check.gif" height="25" weight="25" hspace="80">
+<p>Speak Clearly
+<img src="C:\Users\Samip\Desktop\assignment\empty.gif" height="25" weight="25" hspace="30">
+<p>Electric Abilities
+<img src="C:\Users\Samip\Desktop\assignment\check.gif" height="25" weight="25" hspace="13">
+</body>
+</html>
+
+<h1>Learn More</h1>
+<p>Learn more about Pikachu at 
+<a href="https://en.wikipedia.org/wiki/Pikachu"> Wikipedia </a> or on <a href="https://www.google.com/search?source=hp&ei=kjBFXOvBHsqMsQWCpIZg&q=pikachu&btnK=Google+Search&oq=pikachu&gs_l=psy-ab.3..35i39l2j0i20i263j0i131i20i263j0i67l6.2322.3273..3620...1.0..0.149.1029.0j8......0....1..gws-wiz.....6..0i131j0.ikyxQD9l7RA"> Google. </p>
+</body>
+</html> 
+
